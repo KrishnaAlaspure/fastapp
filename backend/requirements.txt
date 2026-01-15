@@ -29,5 +29,4 @@ typing-inspection==0.4.2
 uv==0.9.25
 uvicorn==0.40.0
 wrapt==2.0.1
-@clerk/clerk-react==4.12.3
 clerk-backend-api==4.12.3
